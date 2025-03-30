@@ -14,5 +14,6 @@ The ability to transform large and complex datasets into visualizations makes it
 - Plotted the data using a bar graph.
 
 ## Output
+- Hightlights:  2020: COVID, 2011: Low Scoring =>UCONN vs. Butler, 1990:  Only team to score over 100 => UNLV over Duke.
 
 ![NCAA_D1_Image1 ](https://github.com/user-attachments/assets/99a247b1-7985-4c36-913e-883f47b04ca3)
