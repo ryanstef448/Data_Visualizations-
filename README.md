@@ -12,3 +12,7 @@ The ability to transform large and complex datasets into visualizations makes it
 - Feature engineering: Split the Score data (ex. 75-60) into 2 columns to display as Winning and Losing Scores.
 - Used Matplotlib.pyplot to generate visualization.
 - Plotted the data using a bar graph.
+
+## Output
+
+![NCAA_D1_Image1 ](https://github.com/user-attachments/assets/99a247b1-7985-4c36-913e-883f47b04ca3)
